@@ -1,16 +1,52 @@
-# flutter_widgets_catalog
+# 📘 Flutter Widgets Catalog Demos  
 
-A new Flutter project.
+This project is a **learning playground** built while studying the **Flutter Widgets Catalog**.  
+It demonstrates some Flutter widgets that were new to me, by creating a simple home screen with navigation to individual demo pages.  
 
-## Getting Started
+Each button on the home screen represents a widget, and when tapped, it opens a dedicated page showing a practical example of how that widget works.  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Widgets Covered  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **NotificationListener Demo**  
+- **ClipPath Demo**  
+- **CustomPaint Demo**  
+- **Transform Demo**  
+- **Baseline Demo**  
+- **LayoutBuilder Demo**  
+- **AbsorbPointer Demo**  
+- **DraggableScrollableSheet Demo**  
+- **InteractiveViewer Demo**  
+- **Autocomplete Demo**  
+- **AnimatedBuilder Demo**  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🎥 Demo Video  
+
+👉 [Click here to watch the demo](https://drive.google.com/file/d/1T42g_j7KpjUc-FficqttR_aDsIPP7GJ4/view?usp=sharing)  
+
+---
+
+🏗️ Project Structure
+
+- home_view.dart → Main screen with the list of widget demos.
+- Each demo has its own screen file for better separation and clarity.
+
+---
+
+
+📚 Purpose
+
+This project was created for learning and practice.
+
+It helps in:
+
+  . Understanding how different Flutter widgets behave.
+  
+  . Building muscle memory by writing small demos.
+  
+  . Having a quick reference for future projects.
+
+   ---
